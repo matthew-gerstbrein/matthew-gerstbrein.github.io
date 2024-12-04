@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+exclude:
+  - index.html
+  - scripts.js
+  - styles.css
