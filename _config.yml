@@ -1,4 +1,8 @@
-# theme: jekyll-theme-minimal
+title: Matthew Gerstbrein
+logo: /PFP/Generic_PFP.png
+# description: text below image
+show_downloads: false
+theme: jekyll-theme-minimal
 
 # exclude:
 #  - index.html
