@@ -1,7 +1,9 @@
 ## Work experience
 - Bank of New York Mellon
 	- **Financial analyst, 2022 - Present**  
-		- <span style="color: white;">I have held various roles across Corporate Treasury related to balance sheet stress-testing (CCAR, LST, RLAP). My work centers on developing and maintaining computational implementation models. This includes developing model logic, producing associated model documentation, and coordinating with affiliated risk teams and software vendors.</span>
+		<ul style="list-style-type:none; margin-left:0; padding-left:20px;">
+			<li>I have held various roles across Corporate Treasury related to balance sheet stress-testing (CCAR, LST, RLAP). My work centers on developing and maintaining computational implementation models. This includes developing model logic, producing associated model documentation, and coordinating with affiliated risk teams and software vendors.</li>
+		</ul>
 - University of Waterloo
 	- **Teaching assistant, 2018 - 2021**  
 		My responsibilities included marking (grading) assignments, administering exams, holding tutorials (recitations) and office hours,  and actively maintaining online communication channels such as Piazza.
@@ -12,7 +14,7 @@
 ## Education
 - University of Waterloo, Faculty of Mathematics
 	- M.Math in Combinatorics and Optimization
-		- Thesis: insert thegrwa
+		- Thesis: insert thegrwaefwfwawea
 - University of Pittsburgh, Dietrich School of Arts & Sciences
 	- BSc in Pure Mathematics (departmental honors)
 
