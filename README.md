@@ -12,7 +12,7 @@
 ## Education
 - University of Waterloo, Faculty of Mathematics
 	- M.Math in Combinatorics and Optimization
-		- Thesis: insert th
+		- Thesis: insert the
 - University of Pittsburgh, Dietrich School of Arts & Sciences
 	- BSc in Pure Mathematics (departmental honors)
 
