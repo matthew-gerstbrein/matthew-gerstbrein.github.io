@@ -6,7 +6,7 @@
 	- **Teaching assistant, 2018 - 2021**  
 		My responsibilities included marking (grading) assignments, administering exams, holding tutorials (recitations) and office hours,  and actively maintaining online communication channels such as Piazza.
 - University of Pittsburgh
-	- Teaching assistant, 2016 - 2018  
+	- **Teaching assistant, 2016 - 2018**  
 		&nbsp;&nbsp;&nbsp;&nbsp;I led recitations and held office hours for students on a weekly basis. The bulk of time was spent preparing lesson materials and interacting with students (during tutoring, over email, ad-hoc). It remains my most formative professional experience.
 
 ## Education
