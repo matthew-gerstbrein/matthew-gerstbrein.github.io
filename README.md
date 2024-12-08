@@ -17,4 +17,4 @@
 
 ## Extracurricular
 
-I created educational math videos on several under-covered topics at the undergraduate level. This includes a series on the basic theory of linear programming. They are posted on my YouTube channel for those interested!
+I created educational math videos on several under-covered topics at the undergraduate level. This includes a series on the basic theory of linear programming. They are posted on [my YouTube channel](https://www.youtube.com/@mg9581) for those interested!
